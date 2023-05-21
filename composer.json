@@ -1,0 +1,22 @@
+{
+    "name": "datlechin/momo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Datlechin\\Momo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngo Quoc Dat",
+            "email": "datlechin@gmail.com",
+            "homepage": "https://ngoquocdat.dev"
+        }
+    ],
+    "require": {
+      "ext-bcmath": "*",
+        "ext-curl": "*",
+        "ext-openssl": "*"
+    }
+}
