@@ -50,10 +50,3 @@ $momo->regDevice('mã otp');
 
 Rất vui nếu bạn có thể đóng góp cho dự án này. Bạn có thể tạo một Pull Request hoặc tạo một Issue để báo lỗi.
 
-### Donate
-
-Nếu bạn thấy dự án này hữu ích, bạn có thể donate cho tôi qua các ví hoặc ngân hàng sau:
-
-- Momo: 0372124043 (Ngô Quốc Đạt)
-- Vietcombank: 1017595600 (NGO QUOC DAT)
-
